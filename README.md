@@ -15,7 +15,7 @@
 
 ### 채팅, 핑퐁 게임 웹 서비스 : 백엔드 개발
 
-[![Readme Card](https://github.com/webPongServ)
+[![Readme Card](https://github.com/webPongServ/pongserv)
 
 개발 지식 공유 커뮤니티, [팔만코딩경](https://80000coding.oopy.io/) : 운영진, 컨트리뷰터 
 
