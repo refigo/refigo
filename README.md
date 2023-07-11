@@ -1,4 +1,4 @@
-## 안녕하세요😃 함께 목표를 달성하는 개발자 Mijong Go입니다!
+## 👋
 
 충분히 상의하고 결정한 **공동의 목표에 집중하고 달성**하는 것을 추구합니다.
 
@@ -7,14 +7,14 @@
 작게 시작해서 **빠르게 지속적인 결과물**을 내도록 노력하고 있습니다.
 
 
-## Projects
+## 🎁
 
-### 오프라인 출석 모임 웹 서비스 [42Mogle](https://42mogle.com) : 기획, 백엔드 개발, 운영
+혹시! 아침에 함께 모이는 습관을 가지고 싶다면? -> [42Mogle](https://42mogle.com)
 
-개발 지식 공유 커뮤니티, [팔만코딩경](https://80000coding.oopy.io/) : 운영진, 컨트리뷰터 
+개발 지식 공유 커뮤니티, [팔만코딩경](https://80000coding.oopy.io/) 운영진, 컨트리뷰터
 
 
-## Skills
+## 🛠
 <div align=left> 
   <br>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
