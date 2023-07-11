@@ -11,12 +11,6 @@
 
 ### 오프라인 출석 모임 웹 서비스 [42Mogle](https://42mogle.com) : 기획, 백엔드 개발, 운영
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=42Mogle&repo=42-mogle-backend&theme=dark)](https://github.com/42Mogle/42-mogle-backend)
-
-### 채팅, 핑퐁 게임 웹 서비스 : 백엔드 개발
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=webPongServ&repo=pongserv&theme=dark)](https://github.com/webPongServ/pongserv)
-
 개발 지식 공유 커뮤니티, [팔만코딩경](https://80000coding.oopy.io/) : 운영진, 컨트리뷰터 
 
 
