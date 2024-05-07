@@ -31,4 +31,8 @@
 
 <br>
 
+![refigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=refigo&show_icons=true&theme=dark) 
 <!-- ![https://github-readme-stats.vercel.app/api?username=refigo&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=refigo&show_icons=true&theme=dark) -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=refigo)](https://solved.ac/refigo)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=refigo&theme=warm)
