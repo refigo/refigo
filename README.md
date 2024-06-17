@@ -1,7 +1,7 @@
 
 ## 🛠
 
-[Resume_and Portfolio](https://drive.google.com/file/d/1W82N87x5izl6OXlUxN_YB64VrPkKpvDv/view?usp=sharing)
+[Resume and Portfolio](https://drive.google.com/file/d/1W82N87x5izl6OXlUxN_YB64VrPkKpvDv/view?usp=sharing)
 
 <div align=left> 
   <br>
