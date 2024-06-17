@@ -1,4 +1,7 @@
 
+VisionX 개발 중간 보고: https://docs.google.com/document/d/1EljGTd6INLrHnzZKg4XiGXO8TBjVJLDvEtaR48BW_3Q/edit?usp=sharing
+
+
 ## 🛠
 
 [Resume and Portfolio](https://drive.google.com/file/d/1W82N87x5izl6OXlUxN_YB64VrPkKpvDv/view?usp=sharing)
