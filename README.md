@@ -21,6 +21,7 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+**Robotics AI & Simulation Engineer**
 
 ![refigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=refigo&show_icons=true&theme=dark) 
 <!-- ![https://github-readme-stats.vercel.app/api?username=refigo&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=refigo&show_icons=true&theme=dark) -->
