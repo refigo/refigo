@@ -23,6 +23,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refigo&langs_count=8&layout=donut&hide=html,css,fluent,scss,stylus&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ![refigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=refigo&show_icons=true&theme=dark) 
 <!-- ![https://github-readme-stats.vercel.app/api?username=refigo&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=refigo&show_icons=true&theme=dark) -->
 
