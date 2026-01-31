@@ -33,4 +33,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=refigo)](https://solved.ac/refigo)
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=refigo&theme=warm) -->
-
